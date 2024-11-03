@@ -1,4 +1,6 @@
-1.Run `npm install` command to install all the dependencies. (Only one time is enough.)
+1.Clone repository - `git clone https://github.com/VenkateshMogili/vm-react-online-training.git`
+2.`cd vm-react-online-training`
+3.Run `npm install` command to install all the dependencies. (Only one time is enough)
 
 
 To practice every session, follow these steps:
@@ -6,3 +8,6 @@ To practice every session, follow these steps:
 2.Run `npm run sync` command to synchronize the node modules.
 3.Run `npm start` command to start the development server.
 4.Open the browser and go to `http://localhost:5173` to see the app running.
+
+
+Note: This process makes the development faster while learning, without creating multiple projects with duplicate node_modules.
