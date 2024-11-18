@@ -4,9 +4,7 @@ function App() {
 
   return (
     <>
-    {/* TODO: 1.Implement the Portfolio application */}
-      {/* TODO: 2.Push the code to github */}
-      {/* TODO: 3.Deploy into Netlify */}
+    <h1>Hello World Day-7!</h1>
     </>
   )
 }
